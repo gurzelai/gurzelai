@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurzelai
 - 👀 I’m interested in Android Development, Web Development and in any creative proyect
 - 🌱 I’m currently making Computer Engineering
-- 💞️ I’m looking to collaborate on a little proyect based in Android
+- 💞️ I’m looking to collaborate with little group in making Android based proyect
 - 📫 How to reach me: via gmail gorkaurzelai2000@gmail.com
